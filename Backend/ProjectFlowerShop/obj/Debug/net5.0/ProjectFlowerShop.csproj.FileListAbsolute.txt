@@ -1,0 +1,144 @@
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.csproj.AssemblyReference.cache
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.AssemblyInfoInputs.cache
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.AssemblyInfo.cs
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.csproj.CoreCompileInputs.cache
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.MvcApplicationPartsAssemblyInfo.cs
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.MvcApplicationPartsAssemblyInfo.cache
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\appsettings.Development.json
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\appsettings.json
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\ProjectFlowerShop.exe
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\ProjectFlowerShop.deps.json
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\ProjectFlowerShop.runtimeconfig.json
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\ProjectFlowerShop.runtimeconfig.dev.json
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\ProjectFlowerShop.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\ref\ProjectFlowerShop.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\ProjectFlowerShop.pdb
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\staticwebassets\ProjectFlowerShop.StaticWebAssets.Manifest.cache
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\staticwebassets\ProjectFlowerShop.StaticWebAssets.xml
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\scopedcss\bundle\ProjectFlowerShop.styles.css
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.RazorTargetAssemblyInfo.cache
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.csproj.CopyComplete
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ref\ProjectFlowerShop.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.pdb
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.genruntimeconfig.cache
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Humanizer.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Proiect .Net\Proiect.net\ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\appsettings.Development.json
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\appsettings.json
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\ProjectFlowerShop.exe
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\ProjectFlowerShop.deps.json
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\ProjectFlowerShop.runtimeconfig.json
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\ProjectFlowerShop.runtimeconfig.dev.json
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\ProjectFlowerShop.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\ref\ProjectFlowerShop.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\ProjectFlowerShop.pdb
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Humanizer.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.csproj.AssemblyReference.cache
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.AssemblyInfoInputs.cache
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.AssemblyInfo.cs
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.csproj.CoreCompileInputs.cache
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.MvcApplicationPartsAssemblyInfo.cs
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.MvcApplicationPartsAssemblyInfo.cache
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\staticwebassets\ProjectFlowerShop.StaticWebAssets.Manifest.cache
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\staticwebassets\ProjectFlowerShop.StaticWebAssets.xml
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\scopedcss\bundle\ProjectFlowerShop.styles.css
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.RazorTargetAssemblyInfo.cache
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.csproj.CopyComplete
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ref\ProjectFlowerShop.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.pdb
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\obj\Debug\net5.0\ProjectFlowerShop.genruntimeconfig.cache
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Proiect .Net\Proiect.net\Backend - ProjectFlowerShop\ProjectFlowerShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
