@@ -3,6 +3,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import ResponsiveAppBar from "./components/ResponsiveAppBar";
+import Bonsais from "./routes/Bonsai";
 import Flowers from "./routes/Flowers";
 import Home from "./routes/Home";
 
@@ -22,7 +23,7 @@ const router = createBrowserRouter([
         path: 'Flowers'
       },
       {
-        element: '',
+        element: <Bonsais></Bonsais>,
         path: 'Bonsais'
       },
     ]

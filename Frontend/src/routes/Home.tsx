@@ -1,30 +1,24 @@
 import { Box } from "@mui/material";
+import Cards from "../components/Cards";
 import ListHeader from "../components/ListHeader";
 import ToDoItem from "../components/ToDoItem";
 import { useTodoActions, useTodoData } from '../context';
+import Products from "../context/products";
 
 const style = {
     display: 'flex',
-    alignItems: 'center',
     flexDirection: 'column'
 }
 
 const Home: React.FC = () => {
-    const items = useTodoData()
-    const { editTodo } = useTodoActions()
 
     return (
-        <Box sx={style}>
-            <ListHeader />
-            {
-                items.map((item, index) => <ToDoItem key={index} item={item} onAction={
-                    () => {
-                        editTodo(index, item.status)
-                    }
-                } />)
-            }
+        <Box>
+            <br></br>
+            <Box >
+                <Cards />
+            </Box>
         </Box>
-        
     );
 }
 
