@@ -1,9 +1,5 @@
 import { Box } from "@mui/material";
 import Cards from "../components/Cards";
-import ListHeader from "../components/ListHeader";
-import ToDoItem from "../components/ToDoItem";
-import { useTodoActions, useTodoData } from '../context';
-import Products from "../context/products";
 
 const style = {
     display: 'flex',

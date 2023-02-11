@@ -6,6 +6,7 @@ import ResponsiveAppBar from "./components/ResponsiveAppBar";
 import Bonsais from "./routes/Bonsai";
 import Flowers from "./routes/Flowers";
 import Home from "./routes/Home";
+import Login from "./routes/Login";
 
 
 const router = createBrowserRouter([
@@ -15,22 +16,22 @@ const router = createBrowserRouter([
     errorElement: <h1>Page not found :(</h1>,
     children: [
       {
-        element: <Home></Home>,
+        element: <Home/>,
         path: ''
       },
       {
-        element: <Flowers></Flowers>,
+        element: <Flowers/>,
         path: 'Flowers'
       },
       {
-        element: <Bonsais></Bonsais>,
+        element: <Bonsais/>,
         path: 'Bonsais'
       },
     ]
   },
   {
     path: "/Login",
-    element: <div>BunaLogin</div>,
+    element: <Login/>,
     errorElement: <h1>Page not found :(</h1>,
   }
 ]);

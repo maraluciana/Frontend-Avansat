@@ -9,7 +9,7 @@ import { Product } from '../context/products';
 const ProductCard: React.FC<Product> = ({ name, path , price, productType, id}) => { 
   return (
     <Box>
-        <Card sx={{ maxWidth: 345}}>
+        <Card sx={{ margin: '15px', maxWidth: 345}}>
         <CardActionArea>
             <CardMedia
             component="img"
