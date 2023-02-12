@@ -1,4 +1,6 @@
-# Optional Frontend
+# Optional Frontend - Proiect FlowerShop
 
-[![DEMO](https://img.youtube.com/vi/DnEzKyqBcy/0.jpg)](https://www.youtube.com/watch?v=DnEzKyqBcy)
+DEMO APLICATIE
+
+[![DEMO](https://img.youtube.com/vi/DnEzKyqBcy8/0.jpg)](https://www.youtube.com/watch?v=DnEzKyqBcy8)
 
